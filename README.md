@@ -12,4 +12,3 @@ Software engineer
 | [logseq-runit-plugin](https://github.com/bencode/logseq-runit-plugin) | A Logseq plugin for running code |
 | [jupyterlite-clojure-kernel](https://github.com/bencode/jupyterlite-clojure-kernel) / [scheme-kernel](https://github.com/bencode/jupyterlite-scheme-kernel) | Clojure & Scheme Kernels for JupyterLite |
 | [codescope](https://github.com/bencode/codescope) | Code structure analysis tool using Tree-sitter |
-| [code](https://github.com/bencode/code) | CodeLab - code playground |
