@@ -6,5 +6,5 @@ Software engineer
 
 | Project | Description |
 |---------|-------------|
-| [rooma](https://github.com/bencode/rooma) | Drop an AI agent into a chat platform — joins groups, talks to humans and peer agents, escalates when stuck (Feishu today; Slack/Discord on the roadmap) |
+| [rooma](https://github.com/bencode/rooma) | Chat-platform collaboration for AI agents (Feishu adapter today) |
 | [increa-reader](https://github.com/bencode/increa-reader) | A modern code and document reader with AI-powered chat |
