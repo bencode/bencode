@@ -1,6 +1,10 @@
 ### Hi, I'm 大鱼
 
-Software engineer
+Software engineer. Math, code, bamboo flute.
+
+Functional-leaning — TypeScript / Python / Rust at work, Scheme / Clojure for fun (Elixir before that).
+
+After a decade of publishing platforms, now focused on RAG and AI agents.
 
 #### Tinkering
 
