@@ -12,3 +12,4 @@ After a decade of publishing platforms, now focused on RAG and AI agents.
 |---------|-------------|
 | [rooma](https://github.com/bencode/rooma) | Chat-platform collaboration for AI agents (Feishu adapter today) |
 | [increa-reader](https://github.com/bencode/increa-reader) | A modern code and document reader with AI-powered chat |
+| [logseq-skill](https://github.com/bencode/logseq-skill) | Fast search and Q&A over Logseq vaults — for LLM agents (Claude Code / Codex / Cursor) |
