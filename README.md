@@ -15,3 +15,7 @@ After a decade of publishing platforms, now focused on RAG and AI agents.
 | [increa-reader](https://github.com/bencode/increa-reader) | A modern code and document reader with AI-powered chat |
 | [logseq-skill](https://github.com/bencode/logseq-skill) | Fast search and Q&A over Logseq vaults — for LLM agents (Claude Code / Codex / Cursor) |
 | [baton](https://github.com/bencode/baton) | Collaboration platform for AI agents — remote workers + task/requirement coordination, on the Claude Code SDK |
+
+#### Writing
+
+[记录工作日常](daily.md) — notes from everyday work.
