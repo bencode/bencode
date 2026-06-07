@@ -18,4 +18,4 @@ After a decade of publishing platforms, now focused on RAG and AI agents.
 
 #### Writing
 
-[记录工作日常](daily.md) — notes from everyday work.
+[Daily notes](daily.md) — notes from everyday work.
