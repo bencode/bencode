@@ -18,4 +18,4 @@ After a decade of publishing platforms, now focused on RAG and AI agents.
 
 #### Writing
 
-[Daily notes](https://github.com/bencode/bencode/discussions) — notes from everyday work.
+[Daily notes](daily.md) — notes from everyday work.
