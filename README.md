@@ -18,7 +18,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 
 #### Try online
 
-- [Gamma Reader](https://reader.upivot.io) — Read and discuss local documents with AI in your browser — files are stored, parsed, and searched locally instead of uploaded to an application server.
+- [Gamma Reader](https://reader.upivot.io) — A browser-native, local-first AI reader powered by pi.
 - [Gamma Compose](https://compose.upivot.io) — Build React pages directly in the browser from a blank canvas or template, with an agent that edits and compiles as you work.
 
 #### Maintained
