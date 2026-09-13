@@ -16,6 +16,11 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 | [gamma-compose](https://github.com/bencode/gamma-compose) | Browser workbench for building React pages, with a browser-side agent that edits and compiles |
 | [herdr-roam](https://github.com/bencode/herdr-roam) | Local personal AI software studio — one place to coordinate multiple coding agents (early stage) |
 
+#### Try online
+
+- [Gamma Reader](https://reader.upivot.io) — Read, search, and discuss local documents with an AI assistant, with no account, installation, or personal API key required.
+- [Gamma Compose](https://compose.upivot.io) — Build React pages directly in the browser from a blank canvas or template, with an agent that edits and compiles as you work.
+
 #### Maintained
 
 | Project | Description |
