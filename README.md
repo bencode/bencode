@@ -12,7 +12,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 
 | Project | Description |
 |---------|-------------|
-| [gamma-reader](https://github.com/bencode/gamma-reader) | Browser-native, local-first AI reading workspace — open, search, and discuss documents without server-side file storage |
+| [gamma-reader](https://github.com/bencode/gamma-reader) | A browser-native, local-first workspace for reading, experimenting, and creating with AI — powered by pi |
 | [gamma-compose](https://github.com/bencode/gamma-compose) | Browser workbench for building React pages, with a browser-side agent that edits and compiles |
 | [herdr-roam](https://github.com/bencode/herdr-roam) | Local personal AI software studio — one place to coordinate multiple coding agents (early stage) |
 
