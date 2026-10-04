@@ -22,6 +22,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 
 - [Gamma Reader](https://reader.upivot.io) — A browser-native, local-first AI reader powered by pi.
 - [Gamma Compose](https://compose.upivot.io) — Build React pages directly in the browser from a blank canvas or template, with an agent that edits and compiles as you work.
+- [Roost Playground](https://bencode.github.io/roost/playground/) — Write and run React components in Scheme, right in the browser.
 
 #### Maintained
 
