@@ -2,7 +2,7 @@
 
 Software engineer. Math, code, bamboo flute.
 
-Functional-leaning — TypeScript / Python / Rust at work, Scheme / Clojure for fun (Elixir before that).
+Functional-leaning — TypeScript / Python / Rust at work, Scheme / Clojure / Haskell as daily play (Elixir before that).
 
 After a decade of publishing platforms, now building tools for AI agents — to run them, coordinate them, and read with them.
 
