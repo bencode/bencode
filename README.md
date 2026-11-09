@@ -17,6 +17,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 | [Isbell](https://github.com/bencode/Isbell) | Reach the AI agents on your Macs from any browser — one board for every session; chat, watch, or take over any terminal (early development) |
 | [jun](https://github.com/bencode/jun) | Native macOS workspace for terminal coding agents — Claude Code, Codex and pi side by side across projects, on GPU terminals with no WebView (first release) |
 | [sumi](https://github.com/bencode/sumi) | Diagrams and formulas from Markdown, Mermaid and LaTeX, laid out in pure Go — a scene of paths and text your program draws on any backend or as SVG (0.x) |
+| [roost](https://github.com/bencode/roost) | Write React apps in Scheme, compiled to WebAssembly with Guile Hoot (working prototype) |
 
 #### Try online
 
@@ -34,4 +35,3 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 | [logseq-skill](https://github.com/bencode/logseq-skill) | Fast search and Q&A over Logseq vaults, for LLM agents (Claude Code / Codex / Cursor) |
 | [gamma-compose](https://github.com/bencode/gamma-compose) | Browser workbench for building React pages, with a browser-side agent that edits and compiles |
 | [herdr-roam](https://github.com/bencode/herdr-roam) | Local personal AI software studio — one place to coordinate multiple coding agents |
-| [roost](https://github.com/bencode/roost) | Write React apps in Scheme, compiled to WebAssembly with Guile Hoot |
