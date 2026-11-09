@@ -32,13 +32,6 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 | [kg](https://github.com/bencode/kg) | Knowledge graph over a markdown vault — files are the truth, the index is rebuildable |
 | [CocoBits](https://github.com/bencode/CocoBits) | Chrome extension for bilingual inline web page translation — bring your own API key |
 | [logseq-skill](https://github.com/bencode/logseq-skill) | Fast search and Q&A over Logseq vaults, for LLM agents (Claude Code / Codex / Cursor) |
-
-#### Parked
-
-Not maintained for now — may pick them up again.
-
-| Project | Description |
-|---------|-------------|
 | [gamma-compose](https://github.com/bencode/gamma-compose) | Browser workbench for building React pages, with a browser-side agent that edits and compiles |
 | [herdr-roam](https://github.com/bencode/herdr-roam) | Local personal AI software studio — one place to coordinate multiple coding agents |
 | [roost](https://github.com/bencode/roost) | Write React apps in Scheme, compiled to WebAssembly with Guile Hoot |
