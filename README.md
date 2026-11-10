@@ -23,7 +23,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 
 - [Gamma Reader](https://reader.upivot.io) — A browser-native, local-first AI reader powered by pi.
 - [Isbell](https://isbell.fmap.dev) — Every agent on your Macs in one board, from any browser or iPhone.
-- [sumi Playground](https://sumi.fmap.dev/) — Edit Mermaid source in your browser and preview diagrams rendered by Go, with 17 examples across five diagram types.
+- [sumi](https://sumi.fmap.dev/) — A Mermaid layout library in pure Go, producing paths and positioned text for native rendering or SVG export.
 - [Roost Playground](https://bencode.github.io/roost/playground/) — Write a Scheme module in the browser, run it in the page, and drive it from a live REPL ([more demos](https://bencode.github.io/roost/))
 
 #### Maintained
