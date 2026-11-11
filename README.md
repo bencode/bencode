@@ -16,7 +16,7 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 | [baton](https://github.com/bencode/baton) | Agent collaboration engine — workers pick up requirements & tasks in git worktrees; humans join from web, DingTalk, or Feishu |
 | [Isbell](https://github.com/bencode/Isbell) | Reach the AI agents on your Macs from any browser — one board for every session; chat, watch, or take over any terminal (early development) |
 | [jun](https://github.com/bencode/jun) | Native macOS workspace for terminal coding agents — Claude Code, Codex and pi side by side across projects, on GPU terminals with no WebView (first release) |
-| [sumi](https://github.com/bencode/sumi) | Diagrams and formulas from Markdown, Mermaid and LaTeX, laid out in pure Go — a scene of paths and text your program draws on any backend or as SVG (0.x) |
+| [sumi](https://github.com/bencode/sumi) | Mermaid diagrams laid out in pure Go — a scene of paths and text your program draws on any backend or as SVG (0.x) |
 | [roost](https://github.com/bencode/roost) | Write React apps in Scheme, compiled to WebAssembly with Guile Hoot (working prototype) |
 
 #### Try online
@@ -25,6 +25,10 @@ After a decade of publishing platforms, now building tools for AI agents — to 
 - [Isbell](https://isbell.fmap.dev) — Every agent on your Macs in one board, from any browser or iPhone.
 - [sumi](https://sumi.fmap.dev/) — A Mermaid layout library in pure Go, producing paths and positioned text for native rendering or SVG export.
 - [Roost Playground](https://bencode.github.io/roost/playground/) — Write a Scheme module in the browser, run it in the page, and drive it from a live REPL ([more demos](https://bencode.github.io/roost/))
+
+#### Reading
+
+- [Brain](https://brain.qijun.io/) — A public knowledge base of what I read into: source-code deep dives and systems notes, kept as plain Markdown and read with Gamma Reader.
 
 #### Maintained
 
